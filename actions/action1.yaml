@@ -1,6 +1,6 @@
 ---
 name: good
-pack:gg
+pack: gg
 runner_type: "local-shell-script"
 description: Greet StackStorm!
 enabled: true
